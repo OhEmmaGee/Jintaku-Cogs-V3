@@ -642,7 +642,6 @@ class ConversationGames(BaseCog):
                 "Send a video of you dancing.",
                 "Call me and sing a song for me.",
                 "Send a voice message saying that you love me in 3 romantic ways.",
-                "Send me a pic of you wearing the least clothes on you.",
                 "Be my one day boyfriend or girlfriend.",
                 "Write your and my name in your status for 1 day.",
                 "Propose to me in the most sensual way possible.",
