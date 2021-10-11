@@ -403,7 +403,7 @@ class ConversationGames(BaseCog):
                 "Send the most recent text that you sent your best friend.",
                 "Approach people asking them if they have seen your pet alligator because it just escaped.",
                 "Tease one of the serverteam for a minute.",
-                "From now until your next turn, every time someone talks, interrupt by saying, \"that's a lie."",
+                "From now until your next turn, every time someone talks, interrupt by saying, \"that's a lie.\"",
                 "Describe your perfect first date using only emotes.",
                 "Text a friend and tell them their hair is on backward.",
                 "Repeat everything the person next says until your next turn.",
