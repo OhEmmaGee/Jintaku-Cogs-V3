@@ -395,7 +395,7 @@ class ConversationGames(BaseCog):
                 "Out of the last 3 people to send a message in this channel, pick one to go on a date, one to Marry, and one to Kill.",
                 "Ask a person of your choice in your DMs to date you.",
                 "Send every message with uwu for 10 minutes, for example: Fwind me a fwen uwu",
-                "Simp for soemone here in this chat.",
+                "Simp for someone here in this chat.",
                 "Send them pictures of you trying to imitate five emojis that you pick out.",
                 "Slap yourself....again."
                 "Describe your worst date.",
